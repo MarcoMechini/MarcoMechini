@@ -1,4 +1,8 @@
-### Hi there 👋
+My name is Marco Mechini and i'm a Jr Web Developer
+
+this is the home of my latest project, it's a copy 1 to 1 of the spotify page
+
+![image](https://github.com/Marchino00/Marchino00/assets/117976377/ab899fbd-700e-43fa-9ce4-a0ad90473a85)
 
 <!--
 **Marchino00/Marchino00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
