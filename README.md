@@ -1,6 +1,6 @@
 My name is Marco Mechini and i'm a Jr Web Developer
 
-this is the home of my latest project, it's a copy 1 to 1 of the spotify page
+This is the home of my latest project, it's a copy 1 to 1 of the spotify page
 
 ![image](https://github.com/Marchino00/Marchino00/assets/117976377/ab899fbd-700e-43fa-9ce4-a0ad90473a85)
 
