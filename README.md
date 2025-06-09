@@ -4,11 +4,11 @@ Benvenuto nel mio spazio su GitHub. Sono un Front-End Developer con una passione
 ## 📚 Le mie Competenze
 Durante il mio percorso, ho acquisito padronanza delle seguenti tecnologie:
 
-**HTML**: Per la struttura semantica del web.
-**CSS**: Per uno stile accattivante e responsive.
-**JavaScript**: Il cuore della logica front-end interattiva.
-**React**: Per costruire single-page applications dinamiche e modulari.
-**Node.js** & Express.js: Ho esplorato le basi dello sviluppo back-end per creare API RESTful e gestire la logica server-side.
+* **HTML**: Per la struttura semantica del web.
+* **CSS**: Per uno stile accattivante e responsive.
+* **JavaScript**: Il cuore della logica front-end interattiva.
+* **React**: Per costruire single-page applications dinamiche e modulari.
+* **Node.js** & **Express.js**: Ho esplorato le basi dello sviluppo back-end per creare API RESTful e gestire la logica server-side.
 ### ✨ Il mio Ultimo Progetto in Evidenza
 Kanban Board Interattiva
 Questo mio ultimo progetto punta a riprodurre una Kanban Board interattiva e intuitiva, sviluppata con React, che ti aiuta a organizzare i tuoi task in modo efficiente. Questa applicazione offre funzionalità di drag & drop per una gestione flessibile e persistenza dei dati automatica, garantendo che i tuoi progressi non vadano mai persi.
