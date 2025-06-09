@@ -1,8 +1,9 @@
-My name is Marco Mechini and i'm a Jr Web Developer
+My name is Marco Mechini and i'm a Jr Front End Developer
 
 This is the home of my latest project, it's a copy 1 to 1 of the spotify page
 
-![image](https://github.com/Marchino00/Marchino00/assets/117976377/ab899fbd-700e-43fa-9ce4-a0ad90473a85)
+![Screenshot 2025-06-09 121739](https://github.com/user-attachments/assets/e120a15a-92ea-455b-aa08-f57261146938)
+
 
 <!--
 **Marchino00/Marchino00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
